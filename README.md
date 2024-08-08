@@ -1,4 +1,4 @@
-@@ -1,5 +1,5 @@
+
 <h1 align="center">Hi 👋, I'm Prashant Parekh </h1>
 <h3 align="center">I'm an aspiring data analyst with a passion for statistics, always on the lookout for new data adventures. To me, data is like a puzzle, and I love piecing it together to reveal its hidden masterpiece!.</h3>
 
